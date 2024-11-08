@@ -1,0 +1,15 @@
+﻿# Node
+node_modules/
+.env
+.DS_Store
+
+# Data files
+data/*.txt
+data/*.xml
+data/players_list.txt
+data/players_list_xml_foa.xml
+temp/
+temp_data/
+
+# Logs
+*.log
